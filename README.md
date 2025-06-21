@@ -1,14 +1,14 @@
-🔍 Crime Rate Prediction Using Machine Learning
+**🔍 Crime Rate Prediction Using Machine Learning**
 This project predicts crime rates in different cities using machine learning models. It involves data preprocessing, visualization, model training, evaluation, and deployment using Flask.
 
-🚀 Tech Stack
+**🚀 Tech Stack**
 Languages & Libraries: Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 
-Models: Random Forest, Support Vector Machine (SVM), K-Nearest Neighbors (KNN)
+**Models:** Random Forest, Support Vector Machine (SVM), K-Nearest Neighbors (KNN)
 
-Deployment: Flask (web framework)
+**Deployment:** Flask (web framework)
 
-📊 Features
+**📊 Features**
 City-wise crime dataset collection and cleaning
 
 Exploratory Data Analysis (EDA) to uncover trends and patterns
@@ -19,7 +19,7 @@ Achieved 91% accuracy using Random Forest classifier
 
 Flask-based web app for real-time crime rate prediction
 
-📁 Project Structure
+**📁 Project Structure**
 bash
 Copy
 Edit
